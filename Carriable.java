@@ -1,0 +1,3 @@
+interface Carriable {
+  void carry();
+}
